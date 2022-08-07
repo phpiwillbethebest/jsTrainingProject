@@ -1,0 +1,19 @@
+{
+  "name": "jstrainingproject",
+  "version": "1.0.0",
+  "description": "JavaScript training project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phpiwillbethebest/jsTrainingProject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phpiwillbethebest/jsTrainingProject/issues"
+  },
+  "homepage": "https://github.com/phpiwillbethebest/jsTrainingProject#readme"
+}

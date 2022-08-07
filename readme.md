@@ -7,3 +7,9 @@ implementing functionality:
 3. Add modal window
 4. Add cards
 5. AJAX with forms (in progress)
+
+
+to initialize npm use:
+npm init
+we need json server for dev purposes:
+npm i json-server -g
