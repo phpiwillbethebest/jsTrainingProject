@@ -10,6 +10,7 @@ implementing functionality:
 6. Add simple slider
 7. Add carousel slider
 8. Add dots to slider
+8. Updated slider func with rex epx
 
 
 to initialize npm use:
