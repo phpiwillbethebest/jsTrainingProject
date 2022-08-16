@@ -15,10 +15,10 @@ implementing functionality:
 10. Converted the project into a modular structure
 
 
-1. to initialize npm use:
+to initialize npm use:
 npm init
-2. we need json server for dev purposes:
+we need json server for dev purposes:
 npm i json-server -g
 
-3. just a note working with webpack:
+just a note working with webpack:
 npx webpack
