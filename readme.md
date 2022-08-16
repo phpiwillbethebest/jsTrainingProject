@@ -12,9 +12,13 @@ implementing functionality:
 8. Add dots to slider
 8. Updated slider func with rex epx
 9. Add calcutator functionality
+10. Converted the project into a modular structure
 
 
-to initialize npm use:
+1. to initialize npm use:
 npm init
-we need json server for dev purposes:
+2. we need json server for dev purposes:
 npm i json-server -g
+
+3. just a note working with webpack:
+npx webpack
