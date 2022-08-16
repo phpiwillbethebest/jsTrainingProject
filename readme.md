@@ -17,6 +17,7 @@ implementing functionality:
 
 to initialize npm use:
 npm init
+
 we need json server for dev purposes:
 npm i json-server -g
 
